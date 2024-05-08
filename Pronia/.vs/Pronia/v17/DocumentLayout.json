@@ -3,6 +3,62 @@
   "WorkspaceRootPath": "C:\\Users\\User1\\OneDrive\\Desktop\\Pronia\\Pronia\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5EC93110-823C-470E-8C87-E0586D511506}|Pronia\\Pronia.csproj|c:\\users\\user1\\onedrive\\desktop\\pronia\\pronia\\pronia\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EC93110-823C-470E-8C87-E0586D511506}|Pronia\\Pronia.csproj|solutionrelative:pronia\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EC93110-823C-470E-8C87-E0586D511506}|Pronia\\Pronia.csproj|c:\\users\\user1\\onedrive\\desktop\\pronia\\pronia\\pronia\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EC93110-823C-470E-8C87-E0586D511506}|Pronia\\Pronia.csproj|solutionrelative:pronia\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EC93110-823C-470E-8C87-E0586D511506}|Pronia\\Pronia.csproj|c:\\users\\user1\\onedrive\\desktop\\pronia\\pronia\\pronia\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EC93110-823C-470E-8C87-E0586D511506}|Pronia\\Pronia.csproj|solutionrelative:pronia\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EC93110-823C-470E-8C87-E0586D511506}|Pronia\\Pronia.csproj|c:\\users\\user1\\onedrive\\desktop\\pronia\\pronia\\pronia\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EC93110-823C-470E-8C87-E0586D511506}|Pronia\\Pronia.csproj|solutionrelative:pronia\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EC93110-823C-470E-8C87-E0586D511506}|Pronia\\Pronia.csproj|c:\\users\\user1\\onedrive\\desktop\\pronia\\pronia\\pronia\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EC93110-823C-470E-8C87-E0586D511506}|Pronia\\Pronia.csproj|solutionrelative:pronia\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EC93110-823C-470E-8C87-E0586D511506}|Pronia\\Pronia.csproj|c:\\users\\user1\\onedrive\\desktop\\pronia\\pronia\\pronia\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EC93110-823C-470E-8C87-E0586D511506}|Pronia\\Pronia.csproj|solutionrelative:pronia\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EC93110-823C-470E-8C87-E0586D511506}|Pronia\\Pronia.csproj|c:\\users\\user1\\onedrive\\desktop\\pronia\\pronia\\pronia\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EC93110-823C-470E-8C87-E0586D511506}|Pronia\\Pronia.csproj|solutionrelative:pronia\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EC93110-823C-470E-8C87-E0586D511506}|Pronia\\Pronia.csproj|c:\\users\\user1\\onedrive\\desktop\\pronia\\pronia\\pronia\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EC93110-823C-470E-8C87-E0586D511506}|Pronia\\Pronia.csproj|solutionrelative:pronia\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EC93110-823C-470E-8C87-E0586D511506}|Pronia\\Pronia.csproj|c:\\users\\user1\\onedrive\\desktop\\pronia\\pronia\\pronia\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EC93110-823C-470E-8C87-E0586D511506}|Pronia\\Pronia.csproj|solutionrelative:pronia\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EC93110-823C-470E-8C87-E0586D511506}|Pronia\\Pronia.csproj|c:\\users\\user1\\onedrive\\desktop\\pronia\\pronia\\pronia\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5EC93110-823C-470E-8C87-E0586D511506}|Pronia\\Pronia.csproj|solutionrelative:pronia\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EC93110-823C-470E-8C87-E0586D511506}|Pronia\\Pronia.csproj|c:\\users\\user1\\onedrive\\desktop\\pronia\\pronia\\pronia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EC93110-823C-470E-8C87-E0586D511506}|Pronia\\Pronia.csproj|solutionrelative:pronia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EC93110-823C-470E-8C87-E0586D511506}|Pronia\\Pronia.csproj|c:\\users\\user1\\onedrive\\desktop\\pronia\\pronia\\pronia\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EC93110-823C-470E-8C87-E0586D511506}|Pronia\\Pronia.csproj|solutionrelative:pronia\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EC93110-823C-470E-8C87-E0586D511506}|Pronia\\Pronia.csproj|c:\\users\\user1\\onedrive\\desktop\\pronia\\pronia\\pronia\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EC93110-823C-470E-8C87-E0586D511506}|Pronia\\Pronia.csproj|solutionrelative:pronia\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EC93110-823C-470E-8C87-E0586D511506}|Pronia\\Pronia.csproj|c:\\users\\user1\\onedrive\\desktop\\pronia\\pronia\\pronia\\controllers\\deteilcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EC93110-823C-470E-8C87-E0586D511506}|Pronia\\Pronia.csproj|solutionrelative:pronia\\controllers\\deteilcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5EC93110-823C-470E-8C87-E0586D511506}|Pronia\\Pronia.csproj|c:\\users\\user1\\onedrive\\desktop\\pronia\\pronia\\pronia\\views\\deteil\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5EC93110-823C-470E-8C87-E0586D511506}|Pronia\\Pronia.csproj|solutionrelative:pronia\\views\\deteil\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -15,20 +71,8 @@
       "RelativeMoniker": "D:0:0:{5EC93110-823C-470E-8C87-E0586D511506}|Pronia\\Pronia.csproj|solutionrelative:pronia\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EC93110-823C-470E-8C87-E0586D511506}|Pronia\\Pronia.csproj|c:\\users\\user1\\onedrive\\desktop\\pronia\\pronia\\pronia\\controllers\\deteilcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5EC93110-823C-470E-8C87-E0586D511506}|Pronia\\Pronia.csproj|solutionrelative:pronia\\controllers\\deteilcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5EC93110-823C-470E-8C87-E0586D511506}|Pronia\\Pronia.csproj|c:\\users\\user1\\onedrive\\desktop\\pronia\\pronia\\pronia\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5EC93110-823C-470E-8C87-E0586D511506}|Pronia\\Pronia.csproj|solutionrelative:pronia\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5EC93110-823C-470E-8C87-E0586D511506}|Pronia\\Pronia.csproj|c:\\users\\user1\\onedrive\\desktop\\pronia\\pronia\\pronia\\controllers\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5EC93110-823C-470E-8C87-E0586D511506}|Pronia\\Pronia.csproj|solutionrelative:pronia\\controllers\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5EC93110-823C-470E-8C87-E0586D511506}|Pronia\\Pronia.csproj|c:\\users\\user1\\onedrive\\desktop\\pronia\\pronia\\pronia\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5EC93110-823C-470E-8C87-E0586D511506}|Pronia\\Pronia.csproj|solutionrelative:pronia\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5EC93110-823C-470E-8C87-E0586D511506}|Pronia\\Pronia.csproj|c:\\users\\user1\\onedrive\\desktop\\pronia\\pronia\\pronia\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -43,20 +87,8 @@
       "RelativeMoniker": "D:0:0:{5EC93110-823C-470E-8C87-E0586D511506}|Pronia\\Pronia.csproj|solutionrelative:pronia\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EC93110-823C-470E-8C87-E0586D511506}|Pronia\\Pronia.csproj|c:\\users\\user1\\onedrive\\desktop\\pronia\\pronia\\pronia\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5EC93110-823C-470E-8C87-E0586D511506}|Pronia\\Pronia.csproj|solutionrelative:pronia\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5EC93110-823C-470E-8C87-E0586D511506}|Pronia\\Pronia.csproj|c:\\users\\user1\\onedrive\\desktop\\pronia\\pronia\\pronia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5EC93110-823C-470E-8C87-E0586D511506}|Pronia\\Pronia.csproj|solutionrelative:pronia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5EC93110-823C-470E-8C87-E0586D511506}|Pronia\\Pronia.csproj|c:\\users\\user1\\onedrive\\desktop\\pronia\\pronia\\pronia\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{5EC93110-823C-470E-8C87-E0586D511506}|Pronia\\Pronia.csproj|solutionrelative:pronia\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5EC93110-823C-470E-8C87-E0586D511506}|Pronia\\Pronia.csproj|c:\\users\\user1\\onedrive\\desktop\\pronia\\pronia\\pronia\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5EC93110-823C-470E-8C87-E0586D511506}|Pronia\\Pronia.csproj|solutionrelative:pronia\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5EC93110-823C-470E-8C87-E0586D511506}|Pronia\\Pronia.csproj|c:\\users\\user1\\onedrive\\desktop\\pronia\\pronia\\pronia\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -86,47 +118,35 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\Pronia\\Pronia\\Pronia\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Pronia\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\Pronia\\Pronia\\Pronia\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Pronia\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAABnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T21:15:12.615Z"
+              "DocumentIndex": 2,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\Pronia\\Pronia\\Pronia\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Pronia\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\Pronia\\Pronia\\Pronia\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Pronia\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T07:24:17.945Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\Pronia\\Pronia\\Pronia\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "Pronia\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\Pronia\\Pronia\\Pronia\\Models\\Product.cs",
-              "RelativeToolTip": "Pronia\\Models\\Product.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAgAAAA",
+              "DocumentIndex": 4,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\Pronia\\Pronia\\Pronia\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Pronia\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\Pronia\\Pronia\\Pronia\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Pronia\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T20:26:25.939Z"
+              "WhenOpened": "2024-05-08T05:55:51.495Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Tag.cs",
-              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\Pronia\\Pronia\\Pronia\\Models\\Tag.cs",
-              "RelativeDocumentMoniker": "Pronia\\Models\\Tag.cs",
-              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\Pronia\\Pronia\\Pronia\\Models\\Tag.cs",
-              "RelativeToolTip": "Pronia\\Models\\Tag.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T20:26:03.806Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\Pronia\\Pronia\\Pronia\\Models\\Category.cs",
               "RelativeDocumentMoniker": "Pronia\\Models\\Category.cs",
@@ -138,116 +158,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DeteilController.cs",
-              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\Pronia\\Pronia\\Pronia\\Controllers\\DeteilController.cs",
-              "RelativeDocumentMoniker": "Pronia\\Controllers\\DeteilController.cs",
-              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\Pronia\\Pronia\\Pronia\\Controllers\\DeteilController.cs",
-              "RelativeToolTip": "Pronia\\Controllers\\DeteilController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABpAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T20:02:20.144Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\Pronia\\Pronia\\Pronia\\Views\\About\\Index.cshtml",
-              "RelativeDocumentMoniker": "Pronia\\Views\\About\\Index.cshtml",
-              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\Pronia\\Pronia\\Pronia\\Views\\About\\Index.cshtml",
-              "RelativeToolTip": "Pronia\\Views\\About\\Index.cshtml",
-              "ViewState": "AQIAAJ4BAAAAAAAAAAAAAAMAAABGAAAA",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\Pronia\\Pronia\\Pronia\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pronia\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\Pronia\\Pronia\\Pronia\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pronia\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAFkBAAAAAAAAAAAkwHIBAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-07T19:36:03.613Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\Pronia\\Pronia\\Pronia\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Pronia\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\Pronia\\Pronia\\Pronia\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Pronia\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAPMEAAAAAAAAAAAiwAYFAACYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-07T21:18:40.586Z"
+              "WhenOpened": "2024-05-08T05:56:58.55Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\Pronia\\Pronia\\Pronia\\Views\\Deteil\\Index.cshtml",
-              "RelativeDocumentMoniker": "Pronia\\Views\\Deteil\\Index.cshtml",
-              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\Pronia\\Pronia\\Pronia\\Views\\Deteil\\Index.cshtml",
-              "RelativeToolTip": "Pronia\\Views\\Deteil\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4BAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-07T20:02:28.05Z",
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\Pronia\\Pronia\\Pronia\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Pronia\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\Pronia\\Pronia\\Pronia\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Pronia\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAwBsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T06:50:03.33Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ProductPhoto.cs",
-              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\Pronia\\Pronia\\Pronia\\Models\\ProductPhoto.cs",
-              "RelativeDocumentMoniker": "Pronia\\Models\\ProductPhoto.cs",
-              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\Pronia\\Pronia\\Pronia\\Models\\ProductPhoto.cs",
-              "RelativeToolTip": "Pronia\\Models\\ProductPhoto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T20:28:00.441Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\Pronia\\Pronia\\Pronia\\DAL\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Pronia\\DAL\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\Pronia\\Pronia\\Pronia\\DAL\\AppDbContext.cs",
-              "RelativeToolTip": "Pronia\\DAL\\AppDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T20:40:51.725Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ErrorController.cs",
-              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\Pronia\\Pronia\\Pronia\\Controllers\\ErrorController.cs",
-              "RelativeDocumentMoniker": "Pronia\\Controllers\\ErrorController.cs",
-              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\Pronia\\Pronia\\Pronia\\Controllers\\ErrorController.cs",
-              "RelativeToolTip": "Pronia\\Controllers\\ErrorController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T19:34:08.353Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\Pronia\\Pronia\\Pronia\\Program.cs",
-              "RelativeDocumentMoniker": "Pronia\\Program.cs",
-              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\Pronia\\Pronia\\Pronia\\Program.cs",
-              "RelativeToolTip": "Pronia\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABLAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T18:05:47.685Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\Pronia\\Pronia\\Pronia\\appsettings.json",
-              "RelativeDocumentMoniker": "Pronia\\appsettings.json",
-              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\Pronia\\Pronia\\Pronia\\appsettings.json",
-              "RelativeToolTip": "Pronia\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAB8AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-07T20:44:01.537Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 3,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\Pronia\\Pronia\\Pronia\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Pronia\\Views\\_ViewImports.cshtml",
@@ -259,7 +195,199 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\Pronia\\Pronia\\Pronia\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pronia\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\Pronia\\Pronia\\Pronia\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "Pronia\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAABQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T06:50:15.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\Pronia\\Pronia\\Pronia\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Pronia\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\Pronia\\Pronia\\Pronia\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "Pronia\\DAL\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T20:40:51.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\Pronia\\Pronia\\Pronia\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "Pronia\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\Pronia\\Pronia\\Pronia\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "Pronia\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-08T05:53:54.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\Pronia\\Pronia\\Pronia\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pronia\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\Pronia\\Pronia\\Pronia\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "Pronia\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T05:56:11.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\Pronia\\Pronia\\Pronia\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Pronia\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\Pronia\\Pronia\\Pronia\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Pronia\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T05:58:20.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DeteilController.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\Pronia\\Pronia\\Pronia\\Controllers\\DeteilController.cs",
+              "RelativeDocumentMoniker": "Pronia\\Controllers\\DeteilController.cs",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\Pronia\\Pronia\\Pronia\\Controllers\\DeteilController.cs",
+              "RelativeToolTip": "Pronia\\Controllers\\DeteilController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T20:02:20.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\Pronia\\Pronia\\Pronia\\Program.cs",
+              "RelativeDocumentMoniker": "Pronia\\Program.cs",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\Pronia\\Pronia\\Pronia\\Program.cs",
+              "RelativeToolTip": "Pronia\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T18:05:47.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\Pronia\\Pronia\\Pronia\\Views\\About\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pronia\\Views\\About\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\Pronia\\Pronia\\Pronia\\Views\\About\\Index.cshtml",
+              "RelativeToolTip": "Pronia\\Views\\About\\Index.cshtml",
+              "ViewState": "AQIAAJ4BAAAAAAAAAAAAAAMAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T19:36:03.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\Pronia\\Pronia\\Pronia\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pronia\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\Pronia\\Pronia\\Pronia\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Pronia\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAPMEAAAAAAAAAAAiwAYFAACYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T21:18:40.586Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\Pronia\\Pronia\\Pronia\\Views\\Deteil\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pronia\\Views\\Deteil\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\Pronia\\Pronia\\Pronia\\Views\\Deteil\\Index.cshtml",
+              "RelativeToolTip": "Pronia\\Views\\Deteil\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4BAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T20:02:28.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProductPhoto.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\Pronia\\Pronia\\Pronia\\Models\\ProductPhoto.cs",
+              "RelativeDocumentMoniker": "Pronia\\Models\\ProductPhoto.cs",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\Pronia\\Pronia\\Pronia\\Models\\ProductPhoto.cs",
+              "RelativeToolTip": "Pronia\\Models\\ProductPhoto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T20:28:00.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\Pronia\\Pronia\\Pronia\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Pronia\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\Pronia\\Pronia\\Pronia\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Pronia\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T21:15:12.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\Pronia\\Pronia\\Pronia\\Models\\Tag.cs",
+              "RelativeDocumentMoniker": "Pronia\\Models\\Tag.cs",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\Pronia\\Pronia\\Pronia\\Models\\Tag.cs",
+              "RelativeToolTip": "Pronia\\Models\\Tag.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T20:26:03.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\Pronia\\Pronia\\Pronia\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Pronia\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\Pronia\\Pronia\\Pronia\\Models\\Product.cs",
+              "RelativeToolTip": "Pronia\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T20:26:25.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ErrorController.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\Pronia\\Pronia\\Pronia\\Controllers\\ErrorController.cs",
+              "RelativeDocumentMoniker": "Pronia\\Controllers\\ErrorController.cs",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\Pronia\\Pronia\\Pronia\\Controllers\\ErrorController.cs",
+              "RelativeToolTip": "Pronia\\Controllers\\ErrorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T19:34:08.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\Pronia\\Pronia\\Pronia\\appsettings.json",
+              "RelativeDocumentMoniker": "Pronia\\appsettings.json",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\Pronia\\Pronia\\Pronia\\appsettings.json",
+              "RelativeToolTip": "Pronia\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAB8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-07T20:44:01.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\Pronia\\Pronia\\Pronia\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Pronia\\Views\\_ViewStart.cshtml",
@@ -271,7 +399,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 23,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\Pronia\\Pronia\\Pronia\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Pronia\\Views\\Shared\\_Layout.cshtml",
@@ -283,7 +411,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 24,
               "Title": "ShopController.cs",
               "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\Pronia\\Pronia\\Pronia\\Controllers\\ShopController.cs",
               "RelativeDocumentMoniker": "Pronia\\Controllers\\ShopController.cs",
@@ -295,7 +423,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 25,
               "Title": "AboutController.cs",
               "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\Pronia\\Pronia\\Pronia\\Controllers\\AboutController.cs",
               "RelativeDocumentMoniker": "Pronia\\Controllers\\AboutController.cs",
@@ -307,7 +435,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 26,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\Pronia\\Pronia\\Pronia\\Views\\Error\\Index.cshtml",
               "RelativeDocumentMoniker": "Pronia\\Views\\Error\\Index.cshtml",
