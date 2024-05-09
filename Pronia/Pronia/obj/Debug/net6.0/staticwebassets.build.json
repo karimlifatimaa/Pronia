@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "27zYe4yzSzQe58GfOCvTfcvQ/SJaEW+V6JDhc6FE0Nw=",
+  "Hash": "4+gTGMgmJG8cO+5IoufxRNOi7w6mzHlRMFCUpOpw/+E=",
   "Source": "Pronia",
   "BasePath": "_content/Pronia",
   "Mode": "Default",
@@ -39288,6 +39288,44 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\manage\\vendor\\jquery-easing\\jquery.easing.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\User1\\OneDrive\\Desktop\\Pronia\\Pronia\\Pronia\\wwwroot\\Upload\\Slider2024-05-10.png2024-05-10.png",
+      "SourceId": "Pronia",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User1\\OneDrive\\Desktop\\Pronia\\Pronia\\Pronia\\wwwroot\\",
+      "BasePath": "_content/Pronia",
+      "RelativePath": "Upload/Slider2024-05-10.png2024-05-10.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Upload\\Slider2024-05-10.png2024-05-10.png"
+    },
+    {
+      "Identity": "C:\\Users\\User1\\OneDrive\\Desktop\\Pronia\\Pronia\\Pronia\\wwwroot\\Upload\\Slider360_F_527808860_3kZnKm3wGlQCAVJCIQ9hkBVhjRuTN1zK.jpg360_F_527808860_3kZnKm3wGlQCAVJCIQ9hkBVhjRuTN1zK.jpg",
+      "SourceId": "Pronia",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User1\\OneDrive\\Desktop\\Pronia\\Pronia\\Pronia\\wwwroot\\",
+      "BasePath": "_content/Pronia",
+      "RelativePath": "Upload/Slider360_F_527808860_3kZnKm3wGlQCAVJCIQ9hkBVhjRuTN1zK.jpg360_F_527808860_3kZnKm3wGlQCAVJCIQ9hkBVhjRuTN1zK.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Upload\\Slider360_F_527808860_3kZnKm3wGlQCAVJCIQ9hkBVhjRuTN1zK.jpg360_F_527808860_3kZnKm3wGlQCAVJCIQ9hkBVhjRuTN1zK.jpg"
     }
   ]
 }
